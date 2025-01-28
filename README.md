@@ -35,13 +35,13 @@ To ensure proper functionality, the following libraries were used in the project
 
 ### Documentation:
 
-** FRONT**
-![image](https://github.com/user-attachments/assets/5d9ef660-495e-47eb-8a50-48a216b28587)
+#### **FRONT**
+![Front Image](https://github.com/user-attachments/assets/5d9ef660-495e-47eb-8a50-48a216b28587)
 
-** BACK **
-![image](https://github.com/user-attachments/assets/2e0ad528-a3dd-4e08-aa3c-c7f5efefdb6a)
+#### **BACK**
+![Back Image](https://github.com/user-attachments/assets/2e0ad528-a3dd-4e08-aa3c-c7f5efefdb6a)
 
-** HOW DOES IT WORK?**
-https://github.com/user-attachments/assets/bf7ff621-0e43-4919-8b1d-c4c8fb7150fc
+#### **HOW DOES IT WORK?**
+![How it works video](https://github.com/user-attachments/assets/bf7ff621-0e43-4919-8b1d-c4c8fb7150fc)
 
 
