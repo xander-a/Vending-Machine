@@ -13,6 +13,7 @@ A simple Arduino-based vending machine that utilizes various electronic componen
 - **SSR Fotek 25-DA**  
 - **Ultrasonic Sensor**  
 - **Jumping Wires**
+- **RFID MFRC522**
 
 ---
 
@@ -31,4 +32,16 @@ To ensure proper functionality, the following libraries were used in the project
 ![Vending Machine Image](https://github.com/user-attachments/assets/2a007af9-da51-4b60-940f-87f79ca12b35)
 
 ---
+
+### Documentation:
+
+** FRONT**
+![image](https://github.com/user-attachments/assets/5d9ef660-495e-47eb-8a50-48a216b28587)
+
+** BACK **
+![image](https://github.com/user-attachments/assets/2e0ad528-a3dd-4e08-aa3c-c7f5efefdb6a)
+
+** HOW DOES IT WORK?**
+https://github.com/user-attachments/assets/bf7ff621-0e43-4919-8b1d-c4c8fb7150fc
+
 
