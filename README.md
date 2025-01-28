@@ -28,4 +28,7 @@ To ensure proper functionality, the following libraries were used in the project
 ---
 
 ## 📸 **Project Overview**
-![Vend
+![Vending Machine Image](https://github.com/user-attachments/assets/2a007af9-da51-4b60-940f-87f79ca12b35)
+
+---
+
