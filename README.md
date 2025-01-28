@@ -42,6 +42,7 @@ To ensure proper functionality, the following libraries were used in the project
 ![Back Image](https://github.com/user-attachments/assets/2e0ad528-a3dd-4e08-aa3c-c7f5efefdb6a)
 
 #### **HOW DOES IT WORK?**
-![How it works video](https://github.com/user-attachments/assets/bf7ff621-0e43-4919-8b1d-c4c8fb7150fc)
+[Watch how it works](https://www.youtube.com/watch?v=your_video_id)
+
 
 
